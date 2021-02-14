@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/buddy-match/static/css/main.f1492b4d.chunk.css",
+    "main.js": "/buddy-match/static/js/main.93d29836.chunk.js",
+    "main.js.map": "/buddy-match/static/js/main.93d29836.chunk.js.map",
+    "runtime-main.js": "/buddy-match/static/js/runtime-main.47264aa6.js",
+    "runtime-main.js.map": "/buddy-match/static/js/runtime-main.47264aa6.js.map",
+    "static/css/2.00850458.chunk.css": "/buddy-match/static/css/2.00850458.chunk.css",
+    "static/js/2.0b37ad43.chunk.js": "/buddy-match/static/js/2.0b37ad43.chunk.js",
+    "static/js/2.0b37ad43.chunk.js.map": "/buddy-match/static/js/2.0b37ad43.chunk.js.map",
+    "static/js/3.05e8fa34.chunk.js": "/buddy-match/static/js/3.05e8fa34.chunk.js",
+    "static/js/3.05e8fa34.chunk.js.map": "/buddy-match/static/js/3.05e8fa34.chunk.js.map",
+    "index.html": "/buddy-match/index.html",
+    "static/css/2.00850458.chunk.css.map": "/buddy-match/static/css/2.00850458.chunk.css.map",
+    "static/css/main.f1492b4d.chunk.css.map": "/buddy-match/static/css/main.f1492b4d.chunk.css.map",
+    "static/js/2.0b37ad43.chunk.js.LICENSE.txt": "/buddy-match/static/js/2.0b37ad43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47264aa6.js",
+    "static/css/2.00850458.chunk.css",
+    "static/js/2.0b37ad43.chunk.js",
+    "static/css/main.f1492b4d.chunk.css",
+    "static/js/main.93d29836.chunk.js"
+  ]
+}
